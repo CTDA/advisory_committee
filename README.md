@@ -1,4 +1,4 @@
-# Connecticut Digital Archive Advisory Committee
+#### Connecticut Digital Archive Advisory Committee
 Documents and notes from the Connecticut Digital Archive Advisory Committee  
 
 Advisory Committee
