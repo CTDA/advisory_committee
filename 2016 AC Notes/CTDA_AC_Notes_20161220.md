@@ -8,7 +8,9 @@
 ####Agenda:
 * Welcome and Introductions  
 * Year in Review  
-* Where do we lead the CTDA, presentation or data provider?
-* How do we fund the future migration to Fedora4?
+* How do we fund the migration to Fedora4?
+* Where do we lead the CTDA, presentation or data provider?  
+
+
 ---
 ####Notes:
