@@ -1,11 +1,11 @@
-##CTDA Advisory Committee Meeting
-###October 13, 2016
-###2:30 - 3:30pm EST
+CTDA Advisory Committee Meeting  
+October 13, 2016  
+2:30 - 3:30pm EST
 
-####Present: Jackie Bagwell, Jody Blankenship, Greg Colati, Jennifer Eustis, Francesca Livermore, Betsy Pittman, Michelle Riodan-Nold, Elizabeth Rose, Liz Shapiro, Mary Anne Stets, Ken Wiggin
-####Absent: Amy Harrell, Debbie Herman, Jessica Woolford
+Present: Jackie Bagwell, Jody Blankenship, Greg Colati, Jennifer Eustis, Francesca Livermore, Betsy Pittman, Michelle Riodan-Nold, Elizabeth Rose, Liz Shapiro, Mary Anne Stets, Ken Wiggin  
+Absent: Amy Harrell, Debbie Herman, Jessica Woolford
 ---
-####Notes:
+Notes:
 * Thanks to everyone for participating in the CTDA. There was a lot of hype generated recently at the Digital Directions conference held in Denver, CO. People wanted to know how we do what we do.  
 * Grants, Projects & Presentations:  
 ** Connecticut Historical Society has received a $300,000 grant to create a management system specific for museum needs. This will be based on the Baseball Hall of Fame's recent work with Discovery Garden. This is a 3 year grant.  
