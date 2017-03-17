@@ -1,11 +1,11 @@
-##CTDA Advisory Committee Meeting
-###December 20, 2016
-###10:30 - 12:00pm EST
+CTDA Advisory Committee Meeting  
+December 20, 2016  
+10:30 - 12:00pm EST  
 
-####Present: Jody Blankenship, Greg Colati, Betsy Pittman, Liz Shapiro, Jessica Woolford, Ken Wiggin
-####Absent: Debbie Herman, Francesca Livermore, Michelle Riodan-Nold, Elizabeth Rose, Mary Anne Stets
+Present: Jody Blankenship, Greg Colati, Betsy Pittman, Liz Shapiro, Jessica Woolford, Ken Wiggin  
+Absent: Debbie Herman, Francesca Livermore, Michelle Riodan-Nold, Elizabeth Rose, Mary Anne Stets  
 ---
-####Agenda:
+Agenda:  
 * Welcome and Introductions  
 * Year in Review  
 * How do we fund the migration to Fedora4?
@@ -13,7 +13,7 @@
 
 
 ---
-####Notes:  
+Notes:    
 * Welcome everyone. Thank you to all of your and CTDA participants for the work and contributions. Thank you also for being supporting and patient as the CTDA grows.  
 * [Year in Review](http://www.slideshare.net/CTDigitalArchive/ctda-end-of-year-reports). At the end of the year, the CTDA gathers a number of statistics from reports and surveys. This brief presentation outlines those results. Some highlights are that the CTDA has grown tremendously. Because of this growth, the CTDA needs to look into stability and performance. At the end of the presentation is a development timeline where storage and infrastructure/performance are two projects that CTDA will be dealing with next year.  
 * Fedora 3 has reached its end of life. Fedora is one of our core systems used by the CTDA. We need to start thinking of how to fund the migration to Fedora 4. We expect that this migration will take over a year and require at least a project manager and several developers. Now is the time to look for regional, state and national funding. This is also an opportunity to look for donors for this project.  
