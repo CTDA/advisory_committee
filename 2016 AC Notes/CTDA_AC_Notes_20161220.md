@@ -1,0 +1,20 @@
+CTDA Advisory Committee Meeting  
+December 20, 2016  
+10:30 - 12:00pm EST  
+
+Present: Jody Blankenship, Greg Colati, Betsy Pittman, Liz Shapiro, Jessica Woolford, Ken Wiggin  
+Absent: Debbie Herman, Francesca Livermore, Michelle Riodan-Nold, Elizabeth Rose, Mary Anne Stets  
+---
+Agenda:  
+* Welcome and Introductions  
+* Year in Review  
+* How do we fund the migration to Fedora4?
+* Where do we lead the CTDA, presentation or data provider?  
+
+
+---
+Notes:    
+* Welcome everyone. Thank you to all of your and CTDA participants for the work and contributions. Thank you also for being supporting and patient as the CTDA grows.  
+* [Year in Review](http://www.slideshare.net/CTDigitalArchive/ctda-end-of-year-reports). At the end of the year, the CTDA gathers a number of statistics from reports and surveys. This brief presentation outlines those results. Some highlights are that the CTDA has grown tremendously. Because of this growth, the CTDA needs to look into stability and performance. At the end of the presentation is a development timeline where storage and infrastructure/performance are two projects that CTDA will be dealing with next year.  
+* Fedora 3 has reached its end of life. Fedora is one of our core systems used by the CTDA. We need to start thinking of how to fund the migration to Fedora 4. We expect that this migration will take over a year and require at least a project manager and several developers. Now is the time to look for regional, state and national funding. This is also an opportunity to look for donors for this project.  
+* We have 1/2 million objects. Now that we have content, what do we want to do with it? Having content is an opportunity to be able to re-use and share data from CTDA into other systems such as WordPress. The CTDA would like to focus on providing data sources rather discovery/presentation portals. The question becomes how do participants get their content? It is worth specifying who can use the data. For CTDA, metadata and derivatives will be openly accessible to everyone. We're heading towards CTDA as an archive that's not searchable. We want people to use tools such as data widgets on CTDA to get data but not send or redirect people to the archive for information. In this case, people get information about content on participants' own sites. We've seen that participants' needs are varied and they have worked hard to create discovery/presentation portals that fit their users' needs. We don't want to force people to do what CTDA does. We want to focus on connecting systems and participants to CTDA data. Originally the channel structure was to provide public access. As we've seen, the channels are difficult to maintain and hard to use. We need to develop easier and more intuitive ways of getting data in and out of the CTDA. Developing this could be a real turnaround moment for smaller institutions as well. We don't want to dumb things down. We need to share with the community how to embedd and work with CTDA data. A good suggestion is to set up a how to for embedding content in WordPress for example at no additional cost to participants. Another suggestion is to set up widgets that allow users or participants to create and export data sets for their own sites. This move to CTDA as data provider is good news in terms of allowing participants to get their data and have it in their system such as PRIMO for example. Current tools at our disposal are harvesting, API's, and scripting to retrieve records. It is good to remember that as we move to Fedora 4, the Islandora Foundation is looking for suggestions and help on building the next generation Islandora platform and your voice counts. Should we have a task force to look at getting data out? Could potential names be Jackie, Jessica, and Michelle? Another idea is to use the [Move to islandora kit](https://github.com/MarcusBarnes/mik) that is open to the community and allows to preprocess materials to be ingested into Islandora. There's also work that can be done with a spreadsheet to MODS. We want this to be a community effort. We'll be in touch soon. Thank you everyone.
