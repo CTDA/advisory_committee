@@ -17,7 +17,7 @@ Agenda:
 Notes:  
 
 * Welcome and Introductions  
-Thank you to all who have joined us today for our quarterly check-in. We appreciate your ideas and your content contributions. There are a number of improvements that we have planned this year that will help with content management activities. We've seen that people are re-using our content in innovative ways. This is amazing!  
+Thank you to all who have joined us today for our quarterly check-in. Our [presentation](http://www.slideshare.net/CTDigitalArchive/ctda-advisory-committee-presentation-3232017) is on our SlideShare account. We appreciate your ideas and your content contributions. There are a number of improvements that we have planned this year that will help with content management activities. We've seen that people are re-using our content in innovative ways. This is amazing!  
 
 * Grants, Projects, and Presentations  
     - Connecticut Collections: We want to connect Connecticut Collections platform, Collective Access, to CTDA. This is in line with CTDA becoming a data provider. This CC project is moving along with 5 pilot organizations. On April 3rd, there will be a full day program where pilot organizations will talk about their experience. In the afternoon, there will be a hands-on workshop on how to use CC. Currently, CC is working with the CT State Library and their WWI project where 3 new tools will be created: landing page, MODS translator, lightbox feature. The hope for the CC project is to expand this year to an additional 5-10 organizations perhaps with the possibility of a Knight Foundation grant.  
